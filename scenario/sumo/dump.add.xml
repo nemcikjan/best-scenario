@@ -1,0 +1,10 @@
+<additional xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://sumo.dlr.de/xsd/additional_file.xsd">
+    <edgeData id="e:random:1m" file="berlin.edge_1m.xml" period="60" excludeEmpty="true"/>
+    <!-- <laneData id="l:random:1m" file="InTAS.simulation.lane_1m.xml" period="60" excludeEmpty="true"/> -->
+    <edgeData id="e:random:5m" file="berlin.edge_5m.xml" period="300" excludeEmpty="true"/>
+    <!-- <laneData id="l:random:5m" file="InTAS.simulation.lane_5m.xml" period="300" excludeEmpty="true"/> -->
+    <edgeData id="e:random:10m" file="berlin.edge_10m.xml" period="600" excludeEmpty="true"/>
+    <!-- <laneData id="l:random:10m" file="InTAS.simulation.lane_10m.xml" period="600" excludeEmpty="true"/> -->
+    <edgeData id="e:random:15m" file="berlin.edge_15m.xml" period="900" excludeEmpty="true"/>
+    <!-- <laneData id="l:random:15m" file="InTAS.simulation.lane_15m.xml" period="900" excludeEmpty="true"/> -->
+</additional>
